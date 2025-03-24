@@ -1,0 +1,13 @@
+C:\Users\vatan\Desktop\MAT\SRC\bin\Release\net40\SroMapEditor.exe.config
+C:\Users\vatan\Desktop\MAT\SRC\bin\Release\net40\SroMapEditor.exe
+C:\Users\vatan\Desktop\MAT\SRC\bin\Release\net40\SroMapEditor.pdb
+C:\Users\vatan\Desktop\MAT\SRC\bin\Release\net40\OpenTK.dll
+C:\Users\vatan\Desktop\MAT\SRC\bin\Release\net40\OpenTK.GLControl.dll
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.csproj.AssemblyReference.cache
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.Form1.resources
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.csproj.GenerateResource.cache
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.csproj.CoreCompileInputs.cache
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEd.DD03600E.Up2Date
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.exe
+C:\Users\vatan\Desktop\MAT\SRC\obj\Release\net40\SroMapEditor.pdb
